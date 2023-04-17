@@ -3,7 +3,7 @@ int main()
 {
  int a,b;
  char operator;
- printf("enter any two integers")
+ printf("enter any two integers you want =")
  scanf("%d %d",&a,&b);
  printf("enter an operator");
  scanf("%c",operator);
