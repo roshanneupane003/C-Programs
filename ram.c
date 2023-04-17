@@ -18,7 +18,7 @@ switch(operator)
   break;
 
   default:
-  printf("you entered a wrong operator");
+  printf("you entered a wrong operator so enter again");
 
 }
 
